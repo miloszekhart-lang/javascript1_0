@@ -7,5 +7,5 @@ function wypiszLiczby() {
       str += ', ';
     }
   }
-  document.getElementById("liczby").innerHTML = str;
+  document.getElementById("ex1_content").innerHTML = str;
 };
